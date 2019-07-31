@@ -2,7 +2,7 @@
 /**
  *
  */
- class sinopsis extends MY_Controller{
+ class Sinopsis extends MY_Controller{
    //  function getdata($from,$where=null,$limit=9,$offset=0){
    public function __construct()
    {
